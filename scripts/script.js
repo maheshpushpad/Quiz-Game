@@ -151,7 +151,7 @@ function howit(params) {
 }
 
 function about() {
-  alert("Author:- Aniket Khanagar");
+  alert("Author:- Mahesh Pushpad");
 }
 
 function feature() {
